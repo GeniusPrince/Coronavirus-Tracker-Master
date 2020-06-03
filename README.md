@@ -4,7 +4,7 @@ Corona Tracker is an Android application which shows worldwide data of confirmed
 
 Features :
 
-Offline caching using Room persistance library (injected with Dagger2)
-Ability to pin specific countries (also using Room)
-Statewise data of Indian States (with sorting options)
-Connected banners with Firebase Remote Config which changes every few seconds
+1. Offline caching using Room persistance library (injected with Dagger2)
+2. Ability to pin specific countries (also using Room)
+3. Statewise data of Indian States (with sorting options)
+4. Connected banners with Firebase Remote Config which changes every few seconds
